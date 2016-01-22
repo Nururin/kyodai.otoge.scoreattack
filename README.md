@@ -1,6 +1,5 @@
 # つかいかた
 ## 会員登録
-* http://kyodaiotoge.webcrow.jp/score_attack/index.php にアクセスする
 * 会員登録をする
   - IDは変更できません.
   - 表示名はそのうち変更機能付けます(見て誰かわかる名前にしてね).
